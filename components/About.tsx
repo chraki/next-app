@@ -14,7 +14,7 @@ const About:React.FC<Props> = (props: any) => {
     <div className={styles.aboutSubDiv}>
       <Col className={styles.cardDiv}>
         <Image src='/images/rakesh.jpg' alt='rakesh' width="230" height="250"/>
-        <h1 className={styles.nameHeading}>Rakesh Chintada</h1>
+        <h1 className={styles.nameHeading}>Rakesh Chintada(new)</h1>
       </Col>
       <Col>
         <p>Software Engineer, KC Overseas Education Pvt Ltd.</p>
